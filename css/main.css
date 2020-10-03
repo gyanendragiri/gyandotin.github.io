@@ -2592,3 +2592,13 @@ footer .copyright span:last-child::after {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+header .top-bar {
+    display: block;
+    background: #00000000;
+    min-width: 220px;
+    min-height: 66px;
+    position: absolute;
+    left: 90px;
+    top: 0;
+}
