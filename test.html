@@ -7,7 +7,7 @@ $(document).ready(function () {
 
     var showData = $('#show-data');
 	
-    $.getJSON('https://bodolandtimes.in/wp-json/wp/v2/users', function (data) {
+    $.getJSON('https://bodolandtimes.in/wp-json/wp/v2/pages', function (data) {
       console.log(data);
 
       var items = data.map(function (item) {
