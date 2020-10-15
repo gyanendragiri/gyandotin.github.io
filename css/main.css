@@ -2606,6 +2606,9 @@ header .top-bar {
 
 
 .fab, .far {
-    font-weight: 400;
     font-size: 3rem!important;
+}
+
+.fas {
+    font-size: 2.4rem!important;
 }
