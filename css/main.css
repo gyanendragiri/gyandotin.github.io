@@ -2602,3 +2602,10 @@ header .top-bar {
     left: 90px;
     top: 0;
 }
+
+
+
+.fab, .far {
+    font-weight: 400;
+    font-size: 3rem!important;
+}
